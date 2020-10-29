@@ -1,24 +1,3 @@
-# vuejscrm
+Проект CRM "Домашняя бухгалтерия"
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Использованные технологии: JavaScript, Vue JS, Firebase. А также: миксины, фильтры, плагины, пагинация и проч. Сделана локализация (EN/RU)
